@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // 1st of January
+    
    int headsToday;
    int Sandwiches2DaysAgo = 1;
    int Sandwiches1DayAgo = 2;
@@ -17,5 +17,6 @@ int main() {
 
       daysFromNewYear++;
    }
+int a = 5;
    cout << headsToday;
 }
